@@ -32,6 +32,8 @@ Tenho experiência com escrita de cenários em Gherkin, testes exploratórios, t
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![Mobile Center](https://img.shields.io/badge/Mobile_Center-0078D7?style=for-the-badge&logo=microsoft&logoColor=white) 
 ![Mainframe](https://img.shields.io/badge/Mainframe-2E3B4E?style=for-the-badge&logo=ibm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
