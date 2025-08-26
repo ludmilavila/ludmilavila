@@ -9,7 +9,7 @@ Fui responsável por **estruturar cenários de teste desde o início da squad**,
 Trabalho com análise de requisitos, refinamentos, entendimento das regras de negócio junto ao PO, execução de teste de API e testes manuais em ambiente mobile.
 Tenho experiência com escrita de cenários em Gherkin, testes exploratórios, testes de regressão e automação de testes com Cypress e Mocha.
 
-- 🔹 **Diferenciais:** atenção aos detalhes, pensamento crítico e analítico
+🔹 **Diferenciais:** atenção aos detalhes, pensamento crítico e analítico.
 
 ---
 
@@ -33,13 +33,12 @@ Tenho experiência com escrita de cenários em Gherkin, testes exploratórios, t
 ![Mobile Center](https://img.shields.io/badge/Mobile_Center-0078D7?style=for-the-badge&logo=microsoft&logoColor=white) 
 ![Mainframe](https://img.shields.io/badge/Mainframe-2E3B4E?style=for-the-badge&logo=ibm&logoColor=white)
 
-
 ---
 
 ## 📜 Certificações
 
-- ![ISTQB CTFL](https://img.shields.io/badge/ISTQB_CTFL-0099FF?style=for-the-badge) ISTQB® Certified Tester Foundation Level (CTFL 4.0)  
-- ![SFC](https://img.shields.io/badge/SFC-6BA539?style=for-the-badge) Scrum Fundamentals Certified
+![ISTQB CTFL](https://img.shields.io/badge/ISTQB_CTFL-0099FF?style=for-the-badge) ISTQB® Certified Tester Foundation Level (CTFL 4.0)  
+![SFC](https://img.shields.io/badge/SFC-6BA539?style=for-the-badge) Scrum Fundamentals Certified
 
 ---
 
@@ -53,7 +52,7 @@ Quer dar uma espiada no meu portfólio no GitHub?
 
 ## 📫 Vamos conectar?
 
-- 🔗 LinkedIn: [linkedin.com/in/ludmilaavilamendes](https://www.linkedin.com/in/ludmilaavilamendes)  
+🔗 LinkedIn: [linkedin.com/in/ludmilaavilamendes](https://www.linkedin.com/in/ludmilaavilamendes)  
 
 ---
 
