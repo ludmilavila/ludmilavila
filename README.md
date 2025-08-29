@@ -20,6 +20,7 @@ Tenho experiência com escrita de cenários em Gherkin, testes exploratórios, t
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) 
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white) 
 ![Supertest](https://img.shields.io/badge/Supertest-FF0000?style=for-the-badge&logo=supertest&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![k6](https://img.shields.io/badge/k6-FF5C5C?style=for-the-badge&logo=k6&logoColor=white) 
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) 
