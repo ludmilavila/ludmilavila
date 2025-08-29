@@ -48,7 +48,7 @@ Tenho experiência com escrita de cenários em Gherkin, testes exploratórios, t
 
 Quer dar uma espiada no meu portfólio no GitHub?
 
-[💻 Portfolio - Book Swap API](https://github.com/ludmilavila/portfolio-book-swap-api) – projeto de exemplo demonstrando minhas habilidades em QA, automação de testes de API e documentação, incluindo **defeitos, requisitos, plano de testes e casos de teste**.
+[📚 Portfolio - Book Swap API](https://github.com/ludmilavila/portfolio-book-swap-api) – projeto de exemplo demonstrando minhas habilidades em QA, automação de testes de API e documentação, incluindo **defeitos, requisitos, plano de testes e casos de teste**.
 
 ---
 
