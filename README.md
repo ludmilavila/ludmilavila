@@ -63,7 +63,7 @@ Quer dar uma espiada no meu portfólio no GitHub?
 
 ---
 
-## 📫 Vamos conectar?
+## 📫 Vamos nos conectar?
 
 🔗 LinkedIn: [linkedin.com/in/ludmilaavilamendes](https://www.linkedin.com/in/ludmilaavilamendes)  
 
