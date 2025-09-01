@@ -57,7 +57,7 @@ Quer dar uma espiada no meu portfólio no GitHub?
 
 ## 📚 Meus Artigos
 
-- [🛠️ Heurísticas de Teste: Seu Kit de Ataque contra Bugs Escondidos](https://github.com/ludmilavila/ludmilavila/wiki/Heuristicas-de-Teste)  
+- [🛠️ Heurísticas de Teste](https://github.com/ludmilavila/ludmilavila/wiki/Heuristicas-de-Teste)  
 - [🔍 Heurística VADER para Testes de API](https://github.com/ludmilavila/ludmilavila/wiki/Heuristica-VADER-para-Testes-de-API)  
 
 ---
