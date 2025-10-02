@@ -1,7 +1,7 @@
 # Olá, eu sou a Ludmila! 👋
 
 Sou formada em **Sistemas de Informação**, com **MBA em Gestão de Projetos** e certificação **ISTQB® CTFL**.  
-Tenho cerca de **5 anos de experiência com testes de software**, sendo **3 deles como QA**.
+Tenho cerca de **6 anos de experiência com testes de software**, sendo **3 deles como QA**.
 
 Atuo como **QA Pleno na Foursys**, alocada no **Bradesco/Next**, na jornada de **Seguro de Vida**.  
 Fui responsável por **estruturar cenários de teste desde o início da squad**, com **abordagem shift-left** e **participação ativa nas etapas iniciais do desenvolvimento**.
