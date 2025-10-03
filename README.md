@@ -6,8 +6,8 @@ Tenho cerca de **6 anos de experiência com testes de software**, sendo **3 dele
 Atuo como **QA Pleno na Foursys**, alocada no **Bradesco/Next**, na jornada de **Seguro de Vida**.  
 Fui responsável por **estruturar cenários de teste desde o início da squad**, com **abordagem shift-left** e **participação ativa nas etapas iniciais do desenvolvimento**.
 
-Trabalho com análise de requisitos, refinamentos, entendimento das regras de negócio junto ao PO, execução de teste de API e testes manuais em ambiente mobile.
-Tenho experiência com escrita de cenários em Gherkin, testes exploratórios, testes de regressão e automação de testes com Cypress e Mocha.
+Trabalho com análise de requisitos, refinamentos, entendimento das regras de negócio junto ao PO, execução de teste de API e testes manuais em ambiente mobile e web.
+Tenho experiência com escrita de cenários em Gherkin, testes exploratórios, testes de regressão, teste de fumaça e automação de testes com Cypress e Mocha.
 
 🔹 **Diferenciais:** atenção aos detalhes, pensamento crítico e analítico.
 
