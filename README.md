@@ -1,15 +1,14 @@
 # Olá, eu sou a Ludmila! 👋
 
-Sou formada em **Sistemas de Informação**, com **MBA em Gestão de Projetos** e certificação **ISTQB® CTFL**.  
-Tenho cerca de **6 anos de experiência com testes de software**, sendo **3 deles como QA**.
+Sou uma profissional comprometida e apaixonada pela área de qualidade de software, formada em **Sistemas de Informação**, com **MBA em Gestão de Projetos** e certificação **ISTQB® Certified Tester Foundation Level (CTFL 4.0)**.
 
-Atuo como **QA Pleno na Foursys**, alocada no **Bradesco/Next**, na jornada de **Seguro de Vida**.  
-Fui responsável por **estruturar cenários de teste desde o início da squad**, com **abordagem shift-left** e **participação ativa nas etapas iniciais do desenvolvimento**.
+Tenho **6 anos de experiência com testes de software**, sendo **4 deles atuando como QA**, contribuindo para a garantia da qualidade em diferentes segmentos, como ERP com foco no módulo comercial e documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), soluções de gestão de ILP e ICP em empresa de tecnologia do grupo BTG Pactual e jornadas do setor bancário, como Seguro de Vida e Consignado Pós-Venda no Banco Bradesco/Next.
 
-Trabalho com análise de requisitos, refinamentos, entendimento das regras de negócio junto ao PO, execução de teste de API e testes manuais em ambiente mobile e web.
-Tenho experiência com escrita de cenários em Gherkin, testes exploratórios, testes de regressão, teste de fumaça e automação de testes com Cypress e Mocha.
+Atuo com abordagem shift-left, participando desde as etapas iniciais do desenvolvimento, com foco em análise de requisitos, refinamentos e entendimento de regras de negócio junto ao PO e à equipe. 
 
-🔹 **Diferenciais:** atenção aos detalhes, pensamento crítico e analítico.
+Minha experiência como QA inclui também a criação e execução de casos de teste, testes manuais (web e mobile), testes funcionais, testes de API, testes exploratórios e de regressão, identificação e reporte de bugs, validação de dados via consultas SQL, participação nas cerimônias de Scrum, elaboração de plano de teste, escrita de cenários de teste em Gherkin e automação de testes com Cypress e Mocha.
+
+Sou dedicada e estou sempre disposta a aprender, com o objetivo de contribuir com a equipe de desenvolvimento para a garantia da qualidade do software. Meu diferencial está na **atenção aos detalhes** e no **pensamento crítico e analítico**, que me permitem antecipar falhas e levantar pontos relevantes antes que se tornem problemas em produção.
 
 ---
 
