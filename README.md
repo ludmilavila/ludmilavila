@@ -2,7 +2,7 @@
 
 Sou uma profissional comprometida e apaixonada pela área de qualidade de software, formada em **Sistemas de Informação**, com **MBA em Gestão de Projetos** e certificação **ISTQB® Certified Tester Foundation Level (CTFL 4.0)**.
 
-Tenho **6 anos de experiência com testes de software**, sendo **4 deles atuando como QA**, contribuindo para a garantia da qualidade em diferentes segmentos, como ERP com foco no módulo comercial e documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), soluções de gestão de ILP e ICP em empresa de tecnologia do grupo BTG Pactual e jornadas do setor bancário, como Seguro de Vida e Consignado Pós-Venda no Banco Bradesco/Next.
+Tenho **7 anos de experiência com testes de software**, sendo **4 deles atuando como QA**, contribuindo para a garantia da qualidade em diferentes segmentos, como ERP com foco no módulo comercial e documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), soluções de gestão de ILP e ICP em empresa de tecnologia do grupo BTG Pactual e jornadas do setor bancário, como Seguro de Vida e Consignado Pós-Venda no Banco Bradesco/Next.
 
 Atuo com abordagem shift-left, participando desde as etapas iniciais do desenvolvimento, com foco em análise de requisitos, refinamentos e entendimento de regras de negócio junto ao PO e à equipe. 
 
